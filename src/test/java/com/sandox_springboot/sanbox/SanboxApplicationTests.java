@@ -1,10 +1,10 @@
-package com.example.products;
+package com.sandox_springboot.sanbox;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductsApplicationTests {
+class SanboxApplicationTests {
 
 	@Test
 	void contextLoads() {
